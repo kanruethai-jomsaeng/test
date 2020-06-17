@@ -1,0 +1,20 @@
+/*  Display :none
+Opacity : 0
+Visibility : hidden */
+
+div{
+    height: 400px;
+    color: red;
+}
+.big-img{
+    background: url("./Big.jpeg");
+}
+.small-img{
+    background: url("./Small.jpeg");
+    background-repeat: no-repeat;
+    border: 2px solid red;
+    
+}
+.folder-img{
+    background: url("./img/folder-1.jpeg");
+}

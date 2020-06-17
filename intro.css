@@ -1,0 +1,19 @@
+.fa-free-code-camp{
+    color: green;
+}
+.social-icon{
+    font-size:1rem;
+    color:indigo;
+}
+.fa-facebook-official{
+color: #4267B2;
+}
+.fa-html5{
+    color: #FF5733;
+}
+
+h1{
+    /* text-shadow: 1px 1px 5px rgb(143, 6, 6); */
+    text-shadow: -5px -5px 0px rgba(233, 109, 178, 1);
+    
+}
